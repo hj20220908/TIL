@@ -1,2 +1,2 @@
 # TIL
-:herb: Today I learned
+:seedling: Today I learned
