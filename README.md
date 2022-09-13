@@ -10,7 +10,7 @@
 <br/>
 
 ### Spring Security
-* Spring Boot 기반으로 개발하는 Spring Security
+* [Spring Boot 기반으로 개발하는 Spring Security](https://github.com/hj20220908/core-spring-security)
 <br/>
 
 ### 자료구조
