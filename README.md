@@ -15,4 +15,5 @@
 
 ### Redis
 * [데모버전](https://github.com/hj20220908/demo-redis)
+  * [블로그](https://velog.io/@hj20220908/Redis-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B2%95)
 
