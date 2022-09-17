@@ -14,6 +14,7 @@
 * [트리](https://velog.io/@hj20220908/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%ED%8A%B8%EB%A6%AC)
 
 ### Redis
-* [데모버전](https://github.com/hj20220908/demo-redis)
-  * [블로그](https://velog.io/@hj20220908/Redis-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B2%95)
+* [DEMO](https://github.com/hj20220908/demo-redis)
 
+### MQTT
+* [DEMO](https://github.com/hj20220908/mqtt-demo)
