@@ -10,6 +10,9 @@
 ### Spring Security
 * [Spring Boot 기반으로 개발하는 Spring Security](https://github.com/hj20220908/core-spring-security)
 
+### Python
+* [Python 문법](https://github.com/hj20220908/study-log/tree/Hyojin/Hyojin/week2)
+
 ### 자료구조
 * [트리](https://velog.io/@hj20220908/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%ED%8A%B8%EB%A6%AC)
 
